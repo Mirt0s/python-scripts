@@ -2,6 +2,12 @@
 
 Colección de scripts Python de utilidad. Cada carpeta es un script o herramienta independiente.
 
+## Scripts disponibles
+
+| Carpeta | Descripción |
+|---|---|
+| `poetrade-poc` | Prueba de concepto de la API de Path of Exile Trade |
+
 ## Estructura
 
 ```
